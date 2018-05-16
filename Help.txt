@@ -1,0 +1,17 @@
+<div class="alert alert-success" alert-dismissable"="" id="58417" style="display: none;">
+driver.findElement(By.cssSelector(".alert.alert-success");
+driver.findElement(By.className("alert-success"));
+
+<div class="nav-search-submit nav-sprite">
+driver.findElement(By.cssSelector(".nav-search-submit.nav-sprite);
+driver.findElement(By.className("nav-sprite"));
+driver.findElement(By.xpath("//div[@class='nav-search-submit nav-sprite']"))
+
+
+
+<a href="/docs/configuration">App Configuration</a>
+webDriver.findElement(By.xpath("//a[@href='/docs/configuration']")).click();
+
+
+<a href="https://www.amazon.jobs" class="nav_a">Careers</a>
+webDriver.findElement(By.xpath("//a[@href='https://www.amazon.jobs']")).click();
